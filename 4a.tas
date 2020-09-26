@@ -1,4 +1,4 @@
-#4A 26X 4:38.783
+#4A 26X 4:38.120
 
 console load 4
    1
@@ -768,20 +768,36 @@ console load 4
   70,R
    6,R
   27
-  10,J
- 177,L,G
-  15
-  14,R,J
+   8,J
+  72,L,G
+   3,L,J,G
+   1
+   1,L,J,G
+  44,D
+   1,L,J
+   4,L
+   8
+   6,R
+   1,R,D
+   1,R,G
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+  10,R
+   5,R,D
+  10,R,J
    1,R,K
   12,R,J
-   2,K,G
+   1,K,G
    1,L,K
   12,L,J
-  11,K,G
-   1,R,K
-  13,R,J
-   1,R,K,G
-   1,J
+   8,K,G
+   2,J,G
+   1,R,J
+  13,R,K
+   1,R,J,G
+   1,K
   40
 
 #c-00 (4x)
